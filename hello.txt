@@ -2,3 +2,4 @@ Hello this is for testing purpose only
 This is the change 1
 This is from branch new
 
+This is coflict 
